@@ -16,7 +16,7 @@
 <div id="main-content">
 		<!-- CAPA CONTENEDORA CABEZOTE WEB -->
 		<header id="header">
-			<p>NOMBRES</p>
+			<p>Tienta manugomezo</p>
 		</header>
 		
 		<!-- CAPA CONTENEDORA MENU DE NAVEGACION WEB -->
