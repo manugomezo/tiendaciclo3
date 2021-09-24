@@ -1,4 +1,4 @@
 # tiendaciclo3
-Proyecto ciclo 3
-hola equipo, somos el exito
-holaaaa
+proyecto tienda generica java-maven
+
+misiontic 2022 - ruta 2 - ciclo 3
