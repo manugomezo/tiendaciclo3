@@ -4,6 +4,7 @@
 
 .bg-image {
     background-image: url(https://misionticueb.myopenlms.net/pluginfile.php/1/theme_snap/coverimage/1618870700/site-image.jpg);
+    background-size: cover;
     height: 100vh;
 }
 
