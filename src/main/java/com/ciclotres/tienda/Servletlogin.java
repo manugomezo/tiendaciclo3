@@ -32,7 +32,7 @@ public class Servletlogin extends HttpServlet {
 		Login login = modelo.iniciarSesion(nombre, clave);
 
 		if (login == null) {
-			request.setAttribute("mensaje", "Error nombre de usuario y/o clave");
+			request.setAttribute("mensaje", "Nombre de usuario o contraseña incorrecta!");
 			request.getRequestDispatcher("index.jsp").forward(request, response);
 		} else {
 			HttpSession sesion = request.getSession();
