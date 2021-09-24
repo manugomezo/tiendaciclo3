@@ -44,7 +44,7 @@ public class Servletlogin extends HttpServlet {
 	private void cerrarSesion(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		HttpSession sesion = request.getSession();
 		sesion.invalidate();
-		request.setAttribute("mensaje", "Iniciar sesión");
+		request.setAttribute("mensaje", null);
 		request.getRequestDispatcher("index.jsp").forward(request, response);
 	}
 }
