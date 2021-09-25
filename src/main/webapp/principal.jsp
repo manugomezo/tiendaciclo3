@@ -14,7 +14,6 @@
 <body>
 	
 	
-	
 <!-- CAPA CONTENEDORA PRINCIPAL -->
 <div id="main-content">
 		<!-- CAPA CONTENEDORA CABEZOTE WEB -->
