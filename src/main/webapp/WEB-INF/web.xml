@@ -4,6 +4,7 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+
   <servlet>
     <servlet-name>servletlogin</servlet-name>
     <servlet-class>com.ciclotres.tienda.Servletlogin</servlet-class>
@@ -12,4 +13,5 @@
     <servlet-name>servletlogin</servlet-name>
     <url-pattern>/usuario</url-pattern>
   </servlet-mapping>
+  
 </web-app>
